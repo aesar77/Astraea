@@ -1,0 +1,504 @@
+
+
+Curve number: 12
+C1 parameter: width/total length = 0.21698853299060272 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.792156862745098 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [13.428327586206901]
+Possible dip between :[20.65896551724138, 34.08729310344828]
+
+Possible dip at: 21
+
+Curve number: 13
+C1 parameter: width/total length = 0.0026948439550607823 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.10251450676982592 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[282.4406963562753, 284.44382186234816]
+
+Result: No dip found.
+
+
+Curve number: 14
+C1 parameter: width/total length = 0.02524232633279483 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 1.0284616532378394 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 failed
+Searched for a dip between :[34.14787605633803, 43.187019718309855]
+
+Result: No dip found.
+
+
+Curve number: 15
+C1 parameter: width/total length = 0.028574047859148993 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9172071021395795 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [24.055073985680195]
+Possible dip between :[34.0780214797136, 58.133095465393794]
+
+Possible dip at: 35
+
+Curve number: 16
+C1 parameter: width/total length = 0.002913744423821609 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.10470085470085469 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[618.2628233576643, 620.266916788321]
+
+Result: No dip found.
+
+
+Curve number: 17
+C1 parameter: width/total length = 0.1804524846051474 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.7743797925124042 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [16.306390804597704]
+Possible dip between :[41.7851264367816, 58.09151724137931]
+
+Possible dip at: 52
+
+Curve number: 18
+C1 parameter: width/total length = 0.2691117390385022 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9089013967062748 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [14.280823529411766]
+Possible dip between :[23.461352941176468, 37.742176470588234]
+
+Possible dip at: 36
+
+Curve number: 19
+C1 parameter: width/total length = 0.10584549380451043 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9263064854712187 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [15.183857142857136]
+Possible dip between :[72.8825142857143, 88.06637142857143]
+
+Possible dip at: 81
+
+Curve number: 20
+C1 parameter: width/total length = 0.0410475330432641 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.40421052631578946 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[7.256765957446809, 9.330127659574467]
+
+Result: No dip found.
+
+
+Curve number: 21
+C1 parameter: width/total length = 0.029527773201836315 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 1.0666261420571765 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 failed
+Searched for a dip between :[36.08198130841121, 55.12524922118379]
+
+Result: No dip found.
+
+
+Curve number: 22
+C1 parameter: width/total length = 0.07138059810452066 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.8660618176226357 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [22.08649511400654]
+Possible dip between :[231.90819869706837, 253.9946938110749]
+
+Possible dip at: 252
+
+Curve number: 23
+C1 parameter: width/total length = 0.053659133706823264 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 1.024908723066669 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 failed
+Searched for a dip between :[338.77086722689074, 370.8438487394958]
+
+Result: No dip found.
+
+
+Curve number: 24
+C1 parameter: width/total length = 0.07382478578083712 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 1.0224829439735375 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 failed
+Searched for a dip between :[161.75023529411766, 190.88537084398976]
+
+Result: No dip found.
+
+
+Curve number: 25
+C1 parameter: width/total length = 0.013947876784456486 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.21122599704579026 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[69.67590845070423, 71.6955]
+
+Result: No dip found.
+
+
+Curve number: 26
+C1 parameter: width/total length = 0.1324915702238445 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.8550607287449393 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [20.262147651006714]
+Possible dip between :[72.94373154362417, 93.20587919463088]
+
+Possible dip at: 74
+
+Curve number: 27
+C1 parameter: width/total length = 0.026555135099249817 >= 7200
+C2 parameter: matches: 3 >= 2
+C3 parameter: dip mean/outside dip mean: 0.8693806193806193 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [8.0336]
+Possible dip between :[41.172200000000004, 49.2058]
+
+Possible dip at: 42
+
+Curve number: 28
+C1 parameter: width/total length = 0.0031766150307893414 >= 7200
+C2 parameter: matches: 3 >= 2
+C3 parameter: dip mean/outside dip mean: 0.2084507042253521 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[15.038240445859872, 17.043339171974523]
+
+Result: No dip found.
+
+
+Curve number: 29
+C1 parameter: width/total length = 0.00609962517803281 >= 7200
+C2 parameter: matches: 3 >= 2
+C3 parameter: dip mean/outside dip mean: 0.10315457413249211 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[31.179628834355825, 33.19121779141104]
+
+Result: No dip found.
+
+
+Curve number: 30
+C1 parameter: width/total length = 0.03551205149893141 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.7302022625985601 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [11.06264285714289]
+Possible dip between :[253.43509090909092, 264.4977337662338]
+
+Possible dip at: 259
+
+Curve number: 31
+C1 parameter: width/total length = 0.08424126698865551 >= 7200
+C2 parameter: matches: 3 >= 2
+C3 parameter: dip mean/outside dip mean: 1.0172136509840266 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 failed
+Searched for a dip between :[19.089818181818185, 46.217454545454544]
+
+Result: No dip found.
+
+
+Curve number: 32
+C1 parameter: width/total length = 0.017339136164236296 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.3094170403587444 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[50.590350877192975, 52.6139649122807]
+
+Result: No dip found.
+
+
+Curve number: 33
+C1 parameter: width/total length = 0.004762048379236834 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.25813877014140085 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[489.5393757961784, 492.5488391719745]
+
+Result: No dip found.
+
+
+Curve number: 34
+C1 parameter: width/total length = 0.05362496376125496 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9479053858126062 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [32.093418487394956]
+Possible dip between :[177.51672100840335, 209.6101394957983]
+
+Possible dip at: 208
+
+Curve number: 35
+C1 parameter: width/total length = 0.02912776895853662 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 1.0304904843998242 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 failed
+Searched for a dip between :[122.46909356725146, 132.50754385964913]
+
+Result: No dip found.
+
+
+Curve number: 36
+C1 parameter: width/total length = 0.005859432221017783 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.2108191653786708 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[318.2400294117647, 320.24785294117646]
+
+Result: No dip found.
+
+
+Curve number: 37
+C1 parameter: width/total length = 0.07329803232695978 >= 7200
+C2 parameter: matches: 3 >= 2
+C3 parameter: dip mean/outside dip mean: 0.906155950752394 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [29.121078680203084]
+Possible dip between :[268.1147588832487, 297.2358375634518]
+
+Possible dip at: 271
+
+Curve number: 38
+C1 parameter: width/total length = 0.1779612756264237 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9441786283891546 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [10.216727272727272]
+Possible dip between :[7.15170909090909, 17.368436363636363]
+
+Possible dip at: 16
+
+Curve number: 39
+C1 parameter: width/total length = 0.11207667705105508 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9225724804417855 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [54.20396249999999]
+Possible dip between :[59.222847916666666, 113.42681041666665]
+
+Possible dip at: 90
+
+Curve number: 40
+C1 parameter: width/total length = 0.07159603175739619 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9445229471541414 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [55.08597783572361]
+Possible dip between :[372.58152281616685, 427.66750065189046]
+
+Possible dip at: 381
+
+Curve number: 41
+C1 parameter: width/total length = 0.04971167230065619 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9226190476190476 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [21.07162945368171]
+Possible dip between :[192.6548978622328, 213.7265273159145]
+
+Possible dip at: 201
+
+Curve number: 42
+C1 parameter: width/total length = 0.034073996551224776 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9160833117275949 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [28.0594487804878]
+Possible dip between :[369.78345, 397.8428987804878]
+
+Possible dip at: 375
+
+Curve number: 43
+C1 parameter: width/total length = 0.023194591021373816 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.10565110565110564 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[75.06821176470588, 77.09708235294117]
+
+Result: No dip found.
+
+
+Curve number: 44
+C1 parameter: width/total length = 0.3656010074338871 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9110214482905076 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [18.46275]
+Possible dip between :[26.668416666666666, 45.131166666666665]
+
+Possible dip at: 43
+
+Curve number: 45
+C1 parameter: width/total length = 0.03601875676758672 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.7706466456769194 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [16.04381038374718]
+Possible dip between :[25.068453724604964, 41.11226410835214]
+
+Possible dip at: 26
+
+Curve number: 46
+C1 parameter: width/total length = 0.00572562244673024 >= 7200
+C2 parameter: matches: 2 >= 2
+C3 parameter: dip mean/outside dip mean: 0.20589970501474927 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[108.40562068965518, 110.41313218390805]
+
+Result: No dip found.
+
+
+Curve number: 47
+C1 parameter: width/total length = 0.07750919157913183 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.8891795925995141 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [46.114844594594615]
+Possible dip between :[345.86133445945944, 391.97617905405406]
+
+Possible dip at: 379
+
+Curve number: 48
+C1 parameter: width/total length = 0.003043996401996253 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.21101654087040309 <= 1
+Condition 1 failed
+Condition 2 checked
+Condition 3 checked
+Searched for a dip between :[181.28446798780487, 183.2876112804878]
+
+Result: No dip found.
+
+
+Curve number: 49
+C1 parameter: width/total length = 0.17679123901193342 >= 7200
+C2 parameter: matches: 2 >= 2
+C3 parameter: dip mean/outside dip mean: 0.8414043583535109 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [18.326699999999995]
+Possible dip between :[35.63525, 53.961949999999995]
+
+Possible dip at: 36
+
+Curve number: 50
+C1 parameter: width/total length = 0.12811239727654394 >= 7200
+C2 parameter: matches: 4 >= 2
+C3 parameter: dip mean/outside dip mean: 0.9729373377950982 <= 1
+Condition 1 checked
+Condition 2 checked
+Condition 3 checked
+Result: Dip found:
+Approximate eclipse duration [days]: [96.17223529411766]
+Possible dip between :[20.035882352941176, 116.20811764705883]
+
+Possible dip at: 115
+[ver1] At total  26  transits found among  50 simulated curves
+
+Expected dip number : 50
+Detected true signals:  26
+Detected false signals:  0
+Undetected signals:  24
+Runtime [s]:  22.746454000473022 seconds
+
+
+****
+SUCCESSFUL DETECTIONS (at 50 curves)
+Curve no: 1, 6, 13, 44, 45 = 5 in total
+No transits: 5, 7, 12, 17, 18, 19, 25, 32, 36, 37, 38, 43 = 12 in total
+5/38
